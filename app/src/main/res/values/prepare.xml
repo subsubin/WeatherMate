@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preparation">
+        <item >면접</item>
+        <item >결혼식</item>
+        <item >국내여행</item>
+        <item >해외여행</item>
+        <item >현장학습</item>
+        <item >수영장</item>
+        <item >등산</item>
+    </string-array>
+</resources>
